@@ -1,0 +1,10 @@
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\bin\Debug\AppPaintType.exe.config
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\bin\Debug\AppPaintType.exe
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\bin\Debug\AppPaintType.pdb
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\obj\Debug\AppPaintType.csproj.AssemblyReference.cache
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\obj\Debug\AppPaintType.Form1.resources
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\obj\Debug\AppPaintType.Properties.Resources.resources
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\obj\Debug\AppPaintType.csproj.GenerateResource.cache
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\obj\Debug\AppPaintType.csproj.CoreCompileInputs.cache
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\obj\Debug\AppPaintType.exe
+D:\WorkStation\Dev\C#\AppPaintType\AppPaintType\obj\Debug\AppPaintType.pdb
